@@ -1,6 +1,5 @@
     This is a scenario based solution which implemented in Python.
-	
-	  Used selection sort to sort the bulk object list(with considering ascending order) from unsorted part and putting it at the beginning.
+    Used selection sort to sort the bulk object list(with considering ascending order) from unsorted part and putting it at the beginning.
     
     After iserting another record to sorted list, according to the scenario solution is used 
     Isertion sort to order the list again. 
